@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @puvanans. I am a self-taught Data Analyst. I express problems in terms of Data, gain insights and derive solutions by asking questions and understanding the interactions within Data. 
-- 👀 I’m interested in Data Analytics.
+- 👋 Hi, I’m @puvanans. I am a self-taught Data Analyst. I enjoy changing data into value. 
+- 👀 I’m interested in Data Analytics, Engineering, and ML Engineering.
 - 🌱 I’m currently applying for jobs and working on projects.
 - 💞️ I’m looking to collaborate on any project with an analystics component
 - 📫 I can be reached at www.linkedin.com/in/puvanans
