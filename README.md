@@ -1,16 +1,15 @@
-- 👋 Hi, I’m @puvanans. I am a self-taught Data Analyst. I enjoy changing data into value. 
-- 👀 I’m interested in Data Analysis and Data Engineering.
+## Welcome to my GitHub
+- 👋 Hi, I’m @puvanans. A self-taught Data Analyst & Engineer. I enjoy gaining value from data. 
+- 👀 I’m interested in Data Engineering and Analysis.
 - 🌱 I’m currently applying for jobs and working on projects.
 - 💞️ I’m looking to collaborate on any Data Engineering projects.
 - 📫 I can be reached at www.linkedin.com/in/puvanans or puvananselvam@gmail.com
 
-## Welcome to my GitHub
-
-Here you will find all of my programming projects, data and otherwise. 
+Here you will find all of my programming projects, data and otherwise. Please continue reading to learn more about my data projects.
 
 #### Data Analysis projects
 
-I have worked on several projects so far, the relevant ones are:
+I have worked on several projects so far, but the relevant ones are:
  - Forbes VS Market: Analyzed performances of stocks recommended by Forbes, and compared against the US stock market.
    - https://github.com/puvanans/Growth-Stock-Analysis
  - Time series analysis on membership purchase, student registration, and student engagement.
