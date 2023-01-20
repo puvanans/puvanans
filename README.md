@@ -12,10 +12,11 @@ Here you will find all of my programming projects, data and otherwise. Please co
 I have worked on several projects so far, but the relevant ones are:
  - Forbes VS Market: Analyzed performances of stocks recommended by Forbes, and compared against the US stock market.
    - https://github.com/puvanans/Growth-Stock-Analysis
- - Time series analysis on membership purchase, student registration, and student engagement.
-   - https://github.com/puvanans/365-DS-Competition/blob/master/Engagement.ipynb
- - Similarity of engagement between the top 5 represented countries (In process).
-   - https://github.com/puvanans/365-DS-Competition/blob/master/engagement%20_analysis_by_country.ipynb
+ - The following projects were based on a dataset from 365 Data Science (online learning platform)
+   - Time series analysis on membership purchase, student registration, and student engagement.
+     - https://github.com/puvanans/365-DS-Competition/blob/master/Engagement.ipynb
+   - Similarity of engagement between the top 5 represented countries (In process).
+     - https://github.com/puvanans/365-DS-Competition/blob/master/engagement%20_analysis_by_country.ipynb
 
 These repositories have fairly comprehensible readme file. For further questions, please contact me through email or Linkedin.
 
