@@ -6,7 +6,7 @@
 
 ## Welcome to my GitHub
 
-Here you will find all of my programming projects, coding and otherwise. 
+Here you will find all of my programming projects, data and otherwise. 
 
 #### Data Analysis projects
 
