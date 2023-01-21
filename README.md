@@ -1,9 +1,9 @@
 ## Welcome to my GitHub
-- 👋 Hi, I’m @puvanans. A self-taught Data Analyst & Engineer. I enjoy gaining value from data. 
-- 👀 I’m interested in Data Engineering and Analysis.
-- 🌱 I’m currently applying for jobs and working on projects.
-- 💞️ I’m looking to collaborate on any Data Engineering projects.
-- 📫 I can be reached at www.linkedin.com/in/puvanans or puvananselvam@gmail.com
+- Hi, My name is Puvanan. A self-taught Data Analyst & Engineer. I enjoy gaining value from data. 
+- I’m interested in Data Engineering and Analysis.
+- I’m currently applying for jobs and working on projects.
+- I’m looking to collaborate on any Data Engineering projects.
+- Reach me at www.linkedin.com/in/puvanans or puvananselvam@gmail.com
 
 Here you will find all of my programming projects, data and otherwise. Please continue reading to learn more about my data projects.
 
