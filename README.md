@@ -1,4 +1,4 @@
-## Welcome to my GitHub
+# Welcome to my GitHub
 - Hi, My name is Puvanan. A self-taught Data Analyst & Engineer. I enjoy gaining value from data. 
 - I’m interested in Data Engineering and Analysis.
 - I’m currently applying for jobs and working on projects.
@@ -7,7 +7,7 @@
 
 Here you will find all of my programming projects, data and otherwise. Please continue reading to learn more about my data projects.
 
-#### Data Analysis projects
+### Data Analysis projects
 
 I have worked on several projects so far, but the relevant ones are:
  - Forbes VS Market: Analyzed performances of stocks recommended by Forbes, and compared against the US stock market.
@@ -20,7 +20,7 @@ I have worked on several projects so far, but the relevant ones are:
 
 These repositories have fairly comprehensible readme file. For further questions, please contact me through email or Linkedin.
 
-#### Data Engineering projects
+### Data Engineering projects
 
 At the moment of writing, I am preparing to develop a data pipeline. This would be my first step toward Data Engineering and it would be stored here in GitHub.
 I plan to use Python to access SEC's API (EDGAR), and leverage free tools such as Google Colab, BigQuery, etc.(more tools added as needed).
