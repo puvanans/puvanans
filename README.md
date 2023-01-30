@@ -22,7 +22,7 @@ These repositories have readme file. For further questions, please contact me th
 ### Data Engineering projects
 
 At the moment of writing, I am preparing to develop a data pipeline. This would be my first step toward Data Engineering and it would be stored here in GitHub.
-I plan to use Python to access SEC's API (EDGAR), and leverage free tools such as Google Colab, BigQuery, etc.(more tools added as needed).
+I plan to use Python to source data from AlphaVantage API, and leverage free tools such as Google Colab, BigQuery, etc.(more tools added as needed).
 
 I would also be stepping up my networking, setting up potential information interviews, etc. That area needs the most effort at the moment
 <!---
